@@ -1,6 +1,4 @@
-Yes! I remember — this is your **Disaster Relief Camp Management System (ResQ)** project. It’s the one with **volunteers, donors, victims, donations, resource allocation, admin roles**, and features like **5 km radius aid allocation**. Here’s a professional README for it:
 
----
 
 # ResQ – Disaster Relief Camp Management System 🌍🆘
 
